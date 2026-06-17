@@ -6,8 +6,8 @@ import teccr.justdoitcloud.data.Task;
 import teccr.justdoitcloud.data.User;
 import teccr.justdoitcloud.repository.TaskRepository;
 import teccr.justdoitcloud.repository.UserRepository;
-import teccr.justdoitcloud.service.external.taskarchiver.TaskArchiver;
 import teccr.justdoitcloud.service.external.taskgenerator.TaskGenerator;
+import teccr.justdoitcloud.service.internal.taskarchiver.TaskArchiver;
 
 import java.time.LocalDateTime;
 import java.util.List;

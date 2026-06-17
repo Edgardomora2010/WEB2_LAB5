@@ -1,7 +1,7 @@
-package teccr.justdoitcloud.service.external.taskarchiver;
+package teccr.justdoitcloud.service.internal.taskarchiver;
 
-import teccr.justdoitcloud.data.User;
 import teccr.justdoitcloud.data.Task;
+import teccr.justdoitcloud.data.User;
 
 /**
  * Interfaz para archivar tareas.
